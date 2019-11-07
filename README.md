@@ -4,7 +4,7 @@
 
  - *The number of lines of code in guessinggame.sh, is 20.
  - *command - bash guessinggame.sh
- - *README.md file created 7nov 21:12 
+ - *README.md file is completely created from Makefile at 21:12pm UTC/GMT +3 11/7/19 
 
  ### Reading
 
