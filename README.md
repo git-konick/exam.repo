@@ -21,8 +21,7 @@
 
  ### Contact
 
- The best way to get in touch with me is [on Twitter](https://www.twitter.org/ko$
- ![This is an image.](https://github.com/git-konick/
-
+ The best way to get in touch with me is [on Twitter](https://www.twitter.org/@KoNick_
+ 
  nano README.md
 
