@@ -2,9 +2,9 @@
 
  ## Exam.repo
 
- - *The guessinggame.sh script contains, - 20 lines of code.
- - *command - bash guessinggame.sh
- - *README.md file is completely created from Makefile at 21:12pm UTC/GMT +3 11/7/19 
+ -  The guessinggame.sh script contains, - 20 lines of code.
+ - *command* - bash guessinggame.sh
+ - *README.md* file is completely created from Makefile at 21:12pm UTC/GMT +3 11/7/19 
 
  ### Reading
 
@@ -12,7 +12,7 @@
 
  - *FreeBSD 6 unleashed* by Brian Tiemann
  - *Practical Firewalls* by Terry William Ogletree
- - *The Book of Pstfix* by Ralf Hildebrandt, Patrick Koetter
+ - *The Book of Postfix* by Ralf Hildebrandt, Patrick Koetter
 
  ### Food
 
