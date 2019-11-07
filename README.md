@@ -1,8 +1,10 @@
  # Konstantin Glushenko
 
- ## Geography
+ ## Exam.repo
 
- Now i live and work in Moscow, Russia.
+ - *The number of lines of code in guessinggame.sh, is 20.
+ - *command - bash guessinggame.sh
+ - *README.md file created 7nov 21:12 
 
  ### Reading
 
@@ -21,7 +23,7 @@
 
  ### Contact
 
- The best way to get in touch with me is [on Twitter](https://www.twitter.org/@KoNick_
- 
- nano README.md
+ The best way to get in touch with me is [on Twitter](https://www.twitter.org/)
+
+ README.md
 
