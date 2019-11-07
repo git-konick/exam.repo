@@ -2,7 +2,7 @@
 
  ## Exam.repo
 
- - *The number of lines of code in guessinggame.sh, is 20.
+ - *The guessinggame.sh script contains, - 20 lines of code.
  - *command - bash guessinggame.sh
  - *README.md file is completely created from Makefile at 21:12pm UTC/GMT +3 11/7/19 
 
