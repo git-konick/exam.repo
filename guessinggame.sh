@@ -3,7 +3,7 @@
 
  echo "How may files are in the current directory? Please, Enter number:"
   read response
-   echo "You entered: $response"
+   echo "You entered : $response"
 if [[ $response -eq $(ls | wc -l) ]] # determine the exact value
  then
   for code in $(ls)  # determine the final output
